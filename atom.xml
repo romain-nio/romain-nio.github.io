@@ -4,7 +4,7 @@
   <title><![CDATA[Blog dealing about Data]]></title>
   <link href="http://www.rnio.me/atom.xml" rel="self"/>
   <link href="http://www.rnio.me/"/>
-  <updated>2015-06-17T21:05:19+02:00</updated>
+  <updated>2015-06-17T21:16:13+02:00</updated>
   <id>http://www.rnio.me/</id>
   <author>
     <name><![CDATA[Romain NIO]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Build Hadoop Native Librairies]]></title>
+    <title type="html"><![CDATA[Build hadoop native librairies]]></title>
     <link href="http://www.rnio.me/blog/2015/06/16/build-hadoop-native-librairies/"/>
     <updated>2015-06-16T19:21:41+02:00</updated>
     <id>http://www.rnio.me/blog/2015/06/16/build-hadoop-native-librairies</id>
@@ -170,7 +170,7 @@ Found 1 item
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Split Large File in Bash]]></title>
+    <title type="html"><![CDATA[Split large file in bash]]></title>
     <link href="http://www.rnio.me/blog/2014/06/05/split-large-file-unix-in-bash-command-line/"/>
     <updated>2014-06-05T23:44:18+02:00</updated>
     <id>http://www.rnio.me/blog/2014/06/05/split-large-file-unix-in-bash-command-line</id>
