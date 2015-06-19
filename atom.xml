@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Blog dealing about Data]]></title>
+  <title><![CDATA[Romain NIO - Blog dealing about Data]]></title>
   <link href="http://www.rnio.me/atom.xml" rel="self"/>
   <link href="http://www.rnio.me/"/>
-  <updated>2015-06-17T22:46:07+02:00</updated>
+  <updated>2015-06-19T19:29:05+02:00</updated>
   <id>http://www.rnio.me/</id>
   <author>
     <name><![CDATA[Romain NIO]]></name>
